@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="OnlyForAssembly" target="1.8" />
       <module name="OnlyForAssembly2" target="1.8" />
+      <module name="sbt-relase" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

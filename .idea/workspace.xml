@@ -2,13 +2,247 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c845a76f-b39a-40b0-abfa-9f7c20b7bc91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OnlyForAssembly/version.sbt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OnlyForAssembly2/version.sbt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/OnlyForAssembly-build.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/OnlyForAssembly.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/OnlyForAssembly2-build.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/src/main/scala-2.10/FibonacciTest.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/classes/buildinfo/BuildInfo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/classes/buildinfo/BuildInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sbt_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sbt_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/ac6060f4087ebcfeae348ac81fab2ac607d17de5-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties~HEAD_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties~bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties~bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml~HEAD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml~HEAD_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml~bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml~bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/ac6060f4087ebcfeae348ac81fab2ac607d17de5-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/ac6060f4087ebcfeae348ac81fab2ac607d17de5-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.16/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.16/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sbt_2.10-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/org.scala-sbt.temp-temp-module-750703454be73072ce64f1c215ff85550284ae5b-component.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/src_managed/main/sbt-buildinfo/BuildInfo.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/buildInfo/$global/streams/sbt-buildinfo/BuildInfo.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/buildInfo/$global/streams/sbtbuildinfo-inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/definedTests/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/test/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly/version.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/src/main/scala-2.10/FibonacciTest1.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/classes/buildinfo/BuildInfo$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/classes/buildinfo/BuildInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2$sbt_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2$sbt_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2$sources_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2$sources_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2$sources_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2_2.10/64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT/resolved.xml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sbt_2.10-default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2$sources_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-compile-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-compile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-docs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-optional.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-provided.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-runtime-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-runtime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-scala-tool.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-test-internal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/reports/onlyforassembly2-onlyforassembly2_2.10-test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/src_managed/main/sbt-buildinfo/BuildInfo.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/buildInfo/$global/streams/sbt-buildinfo/BuildInfo.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/buildInfo/$global/streams/sbtbuildinfo-inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/compileIncremental/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/compileIncremental/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/definedTests/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/exportedProducts/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/fullClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/test/$global/streams/out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/version.sbt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/modules/OnlyForAssembly2.iml" afterPath="$PROJECT_DIR$/.idea/modules/sbt-relase.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/ac6060f4087ebcfeae348ac81fab2ac607d17de5-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/1.0/resolved.xml.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-compile-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-compile.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-provided.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-runtime-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-runtime.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-test-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-test.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-compile-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-compile.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-provided.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-runtime-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-runtime.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-test-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-test.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2$sources_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly$sources_2.10/1.0/resolved.xml.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/scala-2.10/resolution-cache/onlyforassembly2/onlyforassembly2_2.10/3457fb4a3722ad86afb1afb7d73a519a3e714c25-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/1.0/resolved.xml.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/OnlyForAssembly2/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/sbt-relase-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/sbt-relase-build.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OnlyForAssembly/target/.history" afterPath="$PROJECT_DIR$/OnlyForAssembly/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt_new" afterPath="$PROJECT_DIR$/build.sbt_new" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/sbt-relase-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/sbt-relase-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/sbt-relase-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/sbt-relase-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-sbt-relase-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/onlyforassembly/onlyforassembly_2.10/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly$sources_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/onlyforassembly-onlyforassembly_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/OnlyForAssembly/" />
@@ -50,10 +284,10 @@
       <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding>
-                <element signature="e#0#33#0" expanded="true" />
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,26 +298,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="version.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OnlyForAssembly/version.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="version.sbt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OnlyForAssembly2/version.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -102,8 +316,18 @@
       <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="394">
+              <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.sbt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/version.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -112,8 +336,8 @@
       <file leaf-file-name="build.sbt_new" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt_new">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" column="3" lean-forward="false" selection-start-line="63" selection-start-column="3" selection-end-line="83" selection-end-column="28" />
+            <state relative-caret-position="315">
+              <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,8 +346,8 @@
       <file leaf-file-name="build.sbt_copy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt_copy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,8 +356,8 @@
       <file leaf-file-name="Release.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/Release.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+            <state relative-caret-position="274">
+              <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -153,9 +377,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/project/x.sbt" />
-        <option value="$PROJECT_DIR$/project/plugins.sbt" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/OnlyForAssembly/version.sbt" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/build.sbt_new" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/version.sbt" />
       </list>
     </option>
   </component>
@@ -191,48 +417,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SBT-Relase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OnlyForAssembly" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SBT-Relase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OnlyForAssembly" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SBT-Relase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OnlyForAssembly2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OnlyForAssembly" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SBT-Relase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OnlyForAssembly" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -544,7 +728,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1504774342844" />
+    <option name="lastUpdateTimestamp" value="1504778729566" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -561,24 +745,8 @@
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="OnlyForAssembly" />
-                <option name="path" value="$PROJECT_DIR$/OnlyForAssembly" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="OnlyForAssembly2" />
-                <option name="path" value="$PROJECT_DIR$/OnlyForAssembly2" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value="sbt-relase-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="OnlyForAssembly-build" />
-                <option name="path" value="$PROJECT_DIR$/OnlyForAssembly/project" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="OnlyForAssembly2-build" />
-                <option name="path" value="$PROJECT_DIR$/OnlyForAssembly2/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -604,7 +772,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="714" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -623,14 +790,15 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37416106" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32718122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20355412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5704698" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20355412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -638,7 +806,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37478706" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -656,7 +823,7 @@
         <state relative-caret-position="675">
           <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -709,14 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/Release.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="66" lean-forward="false" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/build.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -726,40 +885,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/x.sbt" />
-    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt_new">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="3" lean-forward="false" selection-start-line="63" selection-start-column="3" selection-end-line="83" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt_copy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -779,7 +904,57 @@
     <entry file="file://$PROJECT_DIR$/OnlyForAssembly2/version.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Release.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt_new">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt_copy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding />
         </state>
       </provider>

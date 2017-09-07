@@ -13,3 +13,5 @@ project onlyForAssembly
 project OnlyForAssembly
 release
 project OnlyForAssembly
+release
+exit
