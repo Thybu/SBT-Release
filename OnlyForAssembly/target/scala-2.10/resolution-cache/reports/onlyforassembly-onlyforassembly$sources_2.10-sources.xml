@@ -4,10 +4,10 @@
 	<info
 		organisation="onlyforassembly"
 		module="onlyforassembly$sources_2.10"
-		revision="64a887a4a7e493d3b40d96f152f381430f7c823e-SNAPSHOT"
+		revision="ac6060f4087ebcfeae348ac81fab2ac607d17de5-SNAPSHOT"
 		conf="sources"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170907103320"/>
+		date="20170907105115"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
