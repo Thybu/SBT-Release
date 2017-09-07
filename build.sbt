@@ -6,21 +6,18 @@ import sbtassembly.{MergeStrategy, PathList}
 
 name := "OnlyForAssembly"
 
-version := "0.13.6"
+version := "1.0"
 
 scalaVersion := "2.10.5"
 
 
 //javacOptions ++= Seq("-source", "1.8", "-target", "1.8")
 
-
-
-
 def projectTemplate(projectName: String): Project = Project(projectName, file(projectName))
   .enablePlugins(GitVersioning, BuildInfoPlugin , ReleasePlugin)
   .settings(
     javacOptions ++= Seq("-source", "1.8", "-target", "1.8"),
-      scalaVersion := "2.10.5",
+    scalaVersion := "2.10.5",
     fork in run := true,
     javaOptions in run ++= Seq("-Xmx2000m", "-Xms2000m"),
     outputStrategy := Some(StdoutOutput),
@@ -30,58 +27,18 @@ def projectTemplate(projectName: String): Project = Project(projectName, file(pr
     test in assembly := {},
     parallelExecution in test := false,
     concurrentRestrictions in Global += Tags.limit(Tags.Test, 1),
-
-    assemblyJarName in assembly := s"$projectName-v${Release.assemblyVersion(version.value, git.gitHeadCommit.value)}.jar",
-    releaseProcess := Release.customReleaseSteps,
-    releaseUseGlobalVersion := false,
-    releaseVersionFile := file(projectName + "/version.sbt"),
-    releaseTagName := s"$projectName-v${version.value}",
-    git.useGitDescribe := true,
-    publishTo := None,
-    buildInfoKeys := Seq[BuildInfoKey](
-      name,
-      scalaVersion,
-      BuildInfoKey.action("version") {
-        Release.assemblyVersion(version.value, git.gitHeadCommit.value)
-      },
-      BuildInfoKey.action("sha") {
-        git.gitHeadCommit.value
-      }
-    ),
-    buildInfoPackage := s"$projectName",
-
-=======
-
-
-
-def projectTemplate(projectName: String): Project = Project(projectName, file(projectName))
-  .enablePlugins(GitVersioning, BuildInfoPlugin , ReleasePlugin)
-  .settings(
-    javacOptions ++= Seq("-source", "1.8", "-target", "1.8"),
-      scalaVersion := "2.10.5",
-    fork in run := true,
-    javaOptions in run ++= Seq("-Xmx2000m", "-Xms2000m"),
-    outputStrategy := Some(StdoutOutput),
-    testOptions in ThisBuild <+= (target in Test) map {
-      t => Tests.Argument(TestFrameworks.ScalaTest, "-oFD", "-u", t + "/test-reports")
-    },
-    test in assembly := {},
-    parallelExecution in test := false,
-    concurrentRestrictions in Global += Tags.limit(Tags.Test, 1),
-    assemblyJarName in assembly := s"$projectName-v${Release.assemblyVersion(version.value, git.gitHeadCommit.value)}.jar",
->>>>>>> bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4
-libraryDependencies ++= Seq(
-  "com.typesafe" % "config" % "1.3.0",
-  "org.apache.spark" %% "spark-core" % "1.6.0" % "provided",
-  "org.apache.spark" %% "spark-sql" % "1.6.0",
-  "org.apache.spark" %% "spark-hive" % "1.6.0",
-  "org.scalatest" %% "scalatest" % "2.2.4" % "test",
-  "org.apache.hadoop" % "hadoop-hdfs" % "2.6.0-cdh5.9.0" % "test",
-  "org.apache.hadoop" % "hadoop-common" % "2.6.0-cdh5.9.0" % "test",
-  "org.apache.hadoop" % "hadoop-minicluster" % "2.6.0-cdh5.9.0" % "test",
-  "org.mockito" % "mockito-all" % "1.9.5" % "test",
-  "org.apache.kafka" % "kafka-clients" % "0.8.2-beta",
-  "org.scalacheck" % "scalacheck_2.11" % "1.11.5" % "test"),
+    libraryDependencies ++= Seq(
+      "com.typesafe" % "config" % "1.3.0",
+      "org.apache.spark" %% "spark-core" % "1.6.0" % "provided",
+      "org.apache.spark" %% "spark-sql" % "1.6.0",
+      "org.apache.spark" %% "spark-hive" % "1.6.0",
+      "org.scalatest" %% "scalatest" % "2.2.4" % "test",
+      "org.apache.hadoop" % "hadoop-hdfs" % "2.6.0-cdh5.9.0" % "test",
+      "org.apache.hadoop" % "hadoop-common" % "2.6.0-cdh5.9.0" % "test",
+      "org.apache.hadoop" % "hadoop-minicluster" % "2.6.0-cdh5.9.0" % "test",
+      "org.mockito" % "mockito-all" % "1.9.5" % "test",
+      "org.apache.kafka" % "kafka-clients" % "0.8.2-beta",
+      "org.scalacheck" % "scalacheck_2.11" % "1.11.5" % "test"),
 
     resolvers ++= Seq(
       "JBoss Repository" at "http://repository.jboss.org/nexus/content/repositories/releases/",
@@ -96,7 +53,7 @@ libraryDependencies ++= Seq(
       "Mesosphere Public Repository" at "http://downloads.mesosphere.io/maven",
       Resolver.sonatypeRepo("releases")
     )
-)
+  )
 
 
 
