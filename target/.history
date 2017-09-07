@@ -15,3 +15,6 @@ release
 project OnlyForAssembly
 release
 exit
+clean
+test:test
+release

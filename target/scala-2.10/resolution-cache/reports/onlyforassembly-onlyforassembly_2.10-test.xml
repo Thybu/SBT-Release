@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170907120435"/>
+		date="20170907121737"/>
 	<dependencies>
 		<module organisation="org.apache.hadoop" name="hadoop-minicluster">
 			<revision name="2.6.0-cdh5.9.0" status="release" pubdate="20161021103933" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="172">
