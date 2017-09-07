@@ -1,2 +1,5 @@
 release with-defaults
 release
+release with-defaults
+exit;
+exit
